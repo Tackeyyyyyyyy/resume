@@ -72,7 +72,7 @@
   - Bbootstrap
   - AdminLTE3
 - エディタ
-  - PhpStorm
+  - PhPStorm
   - RubyMine
   - Sublime text
 - その他
@@ -100,7 +100,7 @@
 - GCPのAPIを使った開発
 
 ### 不動産物件の紹介サービス (2019/1 - 現在)
-- Railsでの開発
+- Railsを使った開発
 
 ---
 
