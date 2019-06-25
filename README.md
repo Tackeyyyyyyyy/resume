@@ -70,10 +70,10 @@
   - Scrutinizer
   - codeclimate 
 - デザインツール
-  - Bbootstrap
+  - Bootstrap
   - AdminLTE3
 - エディタ
-  - PhPStorm
+  - PHPStorm
   - RubyMine
   - Sublime text
 - その他
