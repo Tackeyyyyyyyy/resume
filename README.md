@@ -7,7 +7,6 @@
 |Name|滝沢 郁紀|
 |kana|タキザワ フミキ|
 |Facebook|[fumiki.takizawa](https://www.facebook.com/fumiki.takizawa)|
-|Twitter|[@takikun51967](https://twitter.com/takikun51967)|
 
 ### 学歴
 - 東京電機大学 情報環境学科	卒業
