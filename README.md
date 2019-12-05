@@ -14,13 +14,13 @@
 ## スキル
 ### 言語
 - Ruby
-- PHP5、7
+- PHP5,7
 - JavaScript
-- html
+- HTML
 
 ### 実務経験のあるフレームワーク
-- Ruby on Rails
-- Laravel
+- Ruby on Rails5
+- Laravel5
 - CodeIgniter2
 - Yii / Yii2
 - ZendFramework1
@@ -48,7 +48,7 @@
   - Cloud Storage
   - Google Cloud API 
 - Webサーバ
-  - Apache
+  - Apache2
   - Nginx
 - DB
   - Mysql
@@ -99,7 +99,7 @@
 - Docker-Composeを使った開発環境の導入
 - GCPのAPIを使った開発
 
-### 不動産物件の紹介サービス (2019/1 - 現在)
+### 不動産物件の紹介サービス (2019/1 - 2019/6)
 - Railsを使った開発
 
 ---
