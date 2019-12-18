@@ -142,6 +142,6 @@
 - DB負荷の対策(インデックス設計、Viewテーブル作成、パーティションテーブル作成)
 
 ## 資格・認定
-Google Analytics認定 2016-10
-Google Adwords 基礎認定資格試験　2016-10
-Google Adwords 検索広告認定資格試験　2016-10
+- Google Analytics認定 2016-10
+- Google Adwords 基礎認定資格試験　2016-10
+- Google Adwords 検索広告認定資格試験　2016-10
