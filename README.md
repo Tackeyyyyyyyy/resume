@@ -60,6 +60,8 @@
   - Docker Compose
   - Chef
   - Ansible2
+  - Selenium
+  - CasperJS
 - Cache  
   - memcached
   - Redis
