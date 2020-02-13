@@ -29,7 +29,7 @@
 - Angular.js(ver1)
 ### 独学
 - Vue.js
-- go
+- go(echo, gin)
 
 ### 実務経験があるミドルウェアサービスや使用ツール
 
@@ -77,10 +77,12 @@
   - PHPStorm
   - RubyMine
   - Sublime text
+  - Atom
 - その他
   - JIRA
   - Redmine
   - Waffle.io
+  - Zenhub
  
 ## 強み
 - 要件定義からシステムテストまで一通りは経験しております。
