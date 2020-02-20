@@ -6,7 +6,7 @@
 |---|-----|
 |名前|滝沢 郁紀|
 |カナ|タキザワ フミキ|
-|職業|サーバーサイドエンジニア|
+|職業|バックエンドエンジニア|
 |生年月日|1990年9月3日|
 |Facebook|[fumiki.takizawa](https://www.facebook.com/fumiki.takizawa)|
 
