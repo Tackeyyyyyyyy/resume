@@ -6,15 +6,19 @@
 |---|-----|
 |Name|滝沢 郁紀|
 |kana|タキザワ フミキ|
+|occupation|サーバーサイドエンジニア|
 |Facebook|[fumiki.takizawa](https://www.facebook.com/fumiki.takizawa)|
 
 ### 学歴
 - 東京電機大学 情報環境学科	卒業
 
+
+
 ## スキル
-### 言語：メインはサーバーサイドです
+### 言語
 - Ruby
-- PHP5,7
+- PHP5
+- PHP7
 - JavaScript
 - HTML
 
