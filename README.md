@@ -58,6 +58,8 @@
   - S3
   - Amazon RDS
   - Amazon ElastiCache
+  - Cloud Watch
+  - Simple Notification Service
 - GCP
   - BigQuery
   - Cloud Storage
@@ -113,7 +115,13 @@
 - 職務: Webアプリケーションエンジニア
 ### ■参画した案件
 
-### 某IaaS型クラウドサービス会社 (2018/10 - 現在)
+### WEB動画配信による学習サービス会社 (2020/04 - 現在)
+- PHPを使ったサービスの改修
+- Laravelを使ったシステムRSSの改修
+- Redisを使ったパフォーマンスチューニング
+- DBやサーバーの監視、Cloud Watchのアラート設定
+
+### 某IaaS型クラウドサービス会社 (2018/10 - 2020/3)
 - RailsAPIを使ったマイクロサービスの開発
 - Laravelを使った課金システムの開発
 - Docker-Composeを使った開発環境の導入
