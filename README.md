@@ -42,6 +42,7 @@
 - Symfony2.7
 - CakePHP2
 - Angular.js(ver1)
+- Vue.js
 ### 独学
 - Vue.js
 - go(echo, gin)
@@ -117,7 +118,7 @@
 
 ### WEB動画配信による学習サービス会社 (2020/04 - 現在)
 - PHPを使ったサービスの改修
-- Laravelを使ったシステムRSSの改修
+- LaravelやVue.jsを使ったシステムRSSの改修
 - Redisを使ったパフォーマンスチューニング
 - DBやサーバーの監視、Cloud Watchのアラート設定
 
