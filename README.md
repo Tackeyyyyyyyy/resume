@@ -44,7 +44,6 @@
 - Angular.js(ver1)
 - Vue.js
 ### 独学
-- Vue.js
 - go(echo, gin)
 
 ### 実務経験があるミドルウェアサービスや使用ツール
