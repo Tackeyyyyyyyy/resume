@@ -79,6 +79,7 @@
   - Ansible2
   - Selenium
   - CasperJS
+  - capistrano 
 - Cache  
   - memcached
   - Redis
