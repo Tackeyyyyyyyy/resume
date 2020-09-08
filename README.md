@@ -32,6 +32,7 @@
 - PHP7
 - JavaScript
 - HTML
+- Go
 
 ### 実務経験のあるフレームワーク
 - Ruby on Rails5
@@ -43,8 +44,10 @@
 - CakePHP2
 - Angular.js(ver1)
 - Vue.js
+- gin
+
 ### 独学
-- go(echo, gin)
+- echo
 
 ### 実務経験があるミドルウェアサービスや使用ツール
 
