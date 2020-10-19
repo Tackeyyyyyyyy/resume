@@ -61,7 +61,7 @@
   - AWS Lambda 
   - S3
   - Amazon RDS
-  - Amazon ElastiCache
+  - Amazon Elasti Cache
   - Cloud Watch
   - Simple Notification Service
 - GCP
