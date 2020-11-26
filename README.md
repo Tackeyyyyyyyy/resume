@@ -120,8 +120,8 @@
 
 ### WEB動画配信による学習サービス会社 (2020/04 - 現在)
 - PHPを使ったサービスの改修
-- LaravelやVue.jsを使ったシステムRSSの改修
-- golang + Reactを使った社内管理システムの改修
+- LaravelやVue.jsを使った社外発信向けRSSの改修
+- golang + React/Redux を使った社内管理システムの改修
 - Redisを使ったパフォーマンスチューニング
 - DBやサーバーの監視、Cloud Watchのアラート設定、CI/CDの設定管理
 
