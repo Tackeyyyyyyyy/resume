@@ -56,7 +56,8 @@
   - CentOS5〜7
   - Ubuntu
 - AWS
-  - Amazon Linux
+  - EC2
+  - ELB
   - DynamoDB
   - AWS Lambda 
   - S3
