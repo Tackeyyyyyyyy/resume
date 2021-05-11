@@ -36,7 +36,7 @@
 
 ### 実務経験のあるフレームワーク
 - Ruby on Rails5
-- Laravel5
+- Laravel5,6
 - CodeIgniter2
 - Yii / Yii2
 - ZendFramework1
@@ -90,6 +90,7 @@
   - Redis
   - Smarty
 - CI
+  - GitHub Actions 
   - CircleCI
   - Scrutinizer
   - codeclimate 
