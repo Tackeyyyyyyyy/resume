@@ -98,6 +98,9 @@
   - Bootstrap
   - AdminLTE3
 - エディタ
+  - IntelliJ IDEA
+  - Goland
+  - WebStorm
   - PHPStorm
   - RubyMine
   - Sublime text
