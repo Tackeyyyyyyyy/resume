@@ -45,13 +45,12 @@
 - CakePHP2
 - Angular.js(ver1)
 - Vue.js
+- Nuxt.js
 - gin
 - React
 
 ### 独学
 - echo
-- gRPC
-- gRPC gateway
 
 ### 実務経験があるミドルウェアサービスや使用ツール
 
@@ -88,6 +87,8 @@
   - Selenium
   - CasperJS
   - capistrano 
+- gRPC
+  - gRPC gateway
 - Cache  
   - memcached
   - Redis
@@ -129,6 +130,7 @@
 - PHPを使ったサービスの改修
 - LaravelやVue.jsを使った社外発信向けRSSの改修
 - golang + React/Redux を使った社内管理システムの改修
+- GoやVue.jsを使った高等教育機関向けDXプラットフォームの開発
 - Redisを使ったパフォーマンスチューニング
 - DBやサーバーの監視、Cloud Watchのアラート設定、CI/CDの設定管理
 
