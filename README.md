@@ -78,6 +78,7 @@
   - Mysql
   - MariaDB
   - PostgreSQL
+  - MongoDB
 - 仮想環境、自動化ツール
   - Vagrant
   - Docker
