@@ -32,6 +32,7 @@
 - PHP5
 - PHP7
 - JavaScript
+- TypeScript
 - HTML
 - Go
 
