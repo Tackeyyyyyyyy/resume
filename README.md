@@ -31,6 +31,7 @@
 - Ruby
 - PHP5
 - PHP7
+- PHP8
 - JavaScript
 - TypeScript
 - HTML
@@ -38,7 +39,7 @@
 
 ### 実務経験のあるフレームワーク
 - Ruby on Rails5
-- Laravel5,6
+- Laravel5、6、9
 - CodeIgniter2
 - Yii / Yii2
 - ZendFramework1
@@ -76,7 +77,7 @@
   - Apache2
   - Nginx
 - DB
-  - Mysql
+  - Mysql5.x、8.0
   - MariaDB
   - PostgreSQL
   - MongoDB
