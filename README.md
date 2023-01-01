@@ -61,7 +61,7 @@
   - Ubuntu
 - AWS
   - EC2
-  - ELB
+  - ALB
   - DynamoDB
   - AWS Lambda 
   - S3
@@ -69,6 +69,9 @@
   - Amazon Elasti Cache
   - Cloud Watch
   - Simple Notification Service
+  - Route53
+  - Certificate Manager
+  - cloudfront
 - GCP
   - BigQuery
   - Cloud Storage
