@@ -46,7 +46,7 @@
 - Symfony2.7
 - CakePHP2
 - Angular.js(ver1)
-- Vue.js
+- Vue.js2,3
 - Nuxt.js
 - gin
 - React
