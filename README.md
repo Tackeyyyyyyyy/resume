@@ -137,6 +137,7 @@
 - LaravelやVue.jsを使った社外発信向けRSSの改修
 - golang + React/Redux を使った社内管理システムの改修
 - GoやNuxt.jsを使った高等教育機関向けDXプラットフォームの開発
+- Go + gRPCを使ったアプリバックエンドの開発
 - Redisを使ったパフォーマンスチューニング
 - DBやサーバーの監視、Cloud Watchのアラート設定、CI/CDの設定管理
 
