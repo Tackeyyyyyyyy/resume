@@ -8,7 +8,6 @@
 |カナ|タキザワ フミキ|
 |職業|バックエンドエンジニア|
 |生年月日|1990年9月3日|
-|Facebook|[fumiki.takizawa](https://www.facebook.com/fumiki.takizawa)|
 
 ### 学歴
 - 東京電機大学 情報環境学科	卒業　(2013年度)
@@ -72,6 +71,7 @@
   - Route53
   - Certificate Manager
   - cloudfront
+
 - GCP
   - BigQuery
   - Cloud Storage
