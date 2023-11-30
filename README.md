@@ -71,6 +71,7 @@
   - Route53
   - Certificate Manager
   - cloudfront
+  - Amazon Personalize
 
 - GCP
   - BigQuery
@@ -92,7 +93,8 @@
   - Ansible2
   - Selenium
   - CasperJS
-  - capistrano 
+  - capistrano
+  - deployer(PHP)
 - gRPC
   - gRPC gateway
 - Cache  
