@@ -41,7 +41,7 @@
 - Ruby on Rails5
 - Laravel5、6、9
 - CodeIgniter2
-- Yii / Yii2
+- Yii、Yii2
 - ZendFramework1
 - Symfony2.7
 - CakePHP2
