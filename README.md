@@ -78,7 +78,9 @@
 - GCP
   - BigQuery
   - Cloud Storage
-  - Google Cloud API 
+  - Google Cloud API
+- Firebase
+  - Cloud Messaging  
 - Webサーバ
   - Apache2
   - Nginx
