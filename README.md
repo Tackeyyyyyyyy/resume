@@ -70,7 +70,7 @@
   - Simple Notification Service
   - Route53
   - Certificate Manager
-  - cloudfront
+  - Cloudfront
   - Amazon Personalize
 
 - GCP
