@@ -37,7 +37,7 @@
 - Go
 
 ### 実務経験のあるフレームワーク
-- Ruby on Rails5
+- Ruby on Rails4、5、8
 - Laravel5、6、9
 - CodeIgniter2
 - Yii、Yii2
