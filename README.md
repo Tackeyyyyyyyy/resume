@@ -29,7 +29,7 @@
 
 ## スキル
 ### 言語
-- Ruby2.3~3.0
+- Ruby2.3~4.0
 - PHP5.4~8.0
 - JavaScript
 - TypeScript
